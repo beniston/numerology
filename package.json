@@ -1,0 +1,16 @@
+{
+  "name": "name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Beniston",
+  "license": "ISC",
+  "dependencies": {
+    "forever": "^0.15.3",
+    "prompt": "^1.0.0",
+    "util": "^0.10.3"
+  }
+}
